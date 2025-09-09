@@ -4,7 +4,7 @@ A mobile web app that shows real-time, crowd-sourced availability and “fit” 
 
 ## What and why?
 
-**Problem.** NYU students are spread across multiple buildings and neighborhoods, and **quiet, available study seats are hard to find**, especially around peak hours. Information about spaces (library floors, department lounges, pop-up study rooms, reservable rooms) is **scattered across emails, PDFs, websites, and word-of-mouth**. The university does not publish comprehensive, up-to-date availability for most spaces, so students waste time walking between locations only to find them full or unsuitable (too loud, no outlets, poor Wi-Fi).  
+**Problem.** NYU students are spread across multiple buildings and neighborhoods, and quiet, available study seats are hard to find, especially around peak hours. Information about spaces (library floors, department lounges, pop-up study rooms, reservable rooms) is scattered across emails, PDFs, websites, and word-of-mouth. The university does not publish comprehensive, up-to-date availability for most spaces, so students waste time walking between locations only to find them full or unsuitable (too loud, no outlets, poor Wi-Fi).  
 
 The challenge is not only for **individual quiet study**:  
 - Students working on **group projects** often need larger desks or collaborative spaces where they can talk freely without disturbing others.  
@@ -13,16 +13,16 @@ The challenge is not only for **individual quiet study**:
 - **Late-night availability** is a recurring challenge since some spaces close earlier than expected, leaving students stranded during evening study sessions.  
 - **Overcrowding at peak times** (especially at Bobst Library) creates a significant need for alternative study spots, while other lesser-known but suitable spaces remain underused.  
 
-**Solution.** **Study Space Finder** is a mobile web application that aggregates and **crowd-sources real-time occupancy and conditions** (quiet/noise, outlets, Wi-Fi, lighting, group-friendly) for study spots on and near campus. It surfaces the best options **right now** based on a student’s preferences and location, with lightweight check-ins and quick ratings to keep data fresh.
+**Solution.** **Study Space Finder** is a mobile web application that aggregates and **crowd-sources real-time occupancy and conditions** (quiet/noise, outlets, Wi-Fi, lighting, group-friendly) for study spots on and near campus. It surfaces the best options right now based on a student’s preferences and location, with lightweight check-ins and quick ratings to keep data fresh.
 
 ## For whom?
 
 The NYU student body (undergraduates and graduate students who need quiet or collaborative spaces on short notice). Teaching assistants and small study groups who need reliable spots for collaborative work or tutoring.  
 
 For example:  
-- As a **commuter student**, I and many of my friends often have **online classes back-to-back with in-person ones**. We need dependable places with Wi-Fi and outlets to attend those classes and to work in between without rushing across campus.  
-- My peers and I also need **spaces for group study sessions** between classes, where we can talk and collaborate without disturbing others.  
-- In my role as a **teaching assistant**, I sometimes need to host **online tutoring sessions**, which requires a quiet space with stable internet and enough room to screen-share or work through problems with students.  
+- As a commuter student, I and many of my friends often have online classes back-to-back with in-person ones. We need dependable places with Wi-Fi and outlets to attend those classes and to work in between without rushing across campus.  
+- My peers and I also need spaces for group study sessions between classes, where we can talk and collaborate without disturbing others.  
+- In my role as a teaching assistant, I sometimes need to host online tutoring sessions, which requires a quiet space with stable internet and enough room to screen-share or work through problems with students.  
 
 ## How?
 
